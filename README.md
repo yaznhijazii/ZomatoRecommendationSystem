@@ -59,10 +59,11 @@ Install these dependencies using pip:
 ```bash
 pip install -r requirements.txt
 
-Credits
+
+##Credits
 Dataset: Zomato Restaurants Data
 
 
-Feel free to adjust any details or formatting to better fit your project!
+###Feel free to adjust any details or formatting to better fit your project!
 
 
