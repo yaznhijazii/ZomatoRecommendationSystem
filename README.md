@@ -60,10 +60,3 @@ Install these dependencies using pip:
 pip install -r requirements.txt
 
 
-##Credits
-Dataset: Zomato Restaurants Data
-
-
-###Feel free to adjust any details or formatting to better fit your project!
-
-
